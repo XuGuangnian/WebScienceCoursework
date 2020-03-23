@@ -19,6 +19,6 @@ clean_twweets.py ----> sampledata
 ## Crowdsourcing
 input and output data on Figure-Eight platform
 
-###crowdsourcing analysis
+### crowdsourcing analysis
 crowdsourcing.py ----> accuracy rate is 21.7%
 
